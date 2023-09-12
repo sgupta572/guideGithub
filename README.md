@@ -70,3 +70,5 @@ git config --global user.email "youremail@example.com"
 <div align="center">
     <h3>Happy coding 🙂</h3>
 </div>
+
+Satyam Gupta
